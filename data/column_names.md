@@ -1,4 +1,5 @@
 # Column Names and Descriptions for King County Data Set
+
 * `id` - Unique identifier for a house
 * `date` - Date house was sold
 * `price` - Sale price (prediction target)
@@ -28,3 +29,7 @@
 * `address` - The street address
 * `lat` - Latitude coordinate
 * `long` - Longitude coordinate
+
+Most fields were pulled from the [King County Assessor Data Download](https://info.kingcounty.gov/assessor/DataDownload/default.aspx).
+
+The `address`, `lat`, and `long` fields have been retrieved using a third-party [geocoding API](https://docs.mapbox.com/api/search/geocoding/). In some cases due to missing or incorrectly-entered data from the King County Assessor, this API returned locations outside of King County, WA. If you plan to use the `address`, `lat`, or `long` fields in your modeling, consider identifying outliers prior to including the values in your model.
