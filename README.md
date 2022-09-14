@@ -2,7 +2,7 @@
 
 Another module down - you're almost half way there!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-3/main/halfway-there.gif)
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v2-5/main/halfway-there.gif)
 
 All that remains in Phase 2 is to put your newfound data science skills to use with a large project!
 
@@ -44,7 +44,7 @@ It is up to you to decide what data from this dataset to use and how to use it. 
 
 * **You should demonstrate an iterative approach to modeling.** This means that you must build multiple models. Begin with a basic model, evaluate it, and then provide justification for and proceed to a new model. After you finish refining your models, you should provide 1-3 paragraphs in the notebook discussing your final model.
 
-* **Data visualization and analysis are no longer explicit project requirements, but they are still very important.** In Phase 1, your project stopped earlier in the CRISP-DM process. Now you are going a step further, to modeling. Data visualization and analysis will help you build better models and tell a better story to your stakeholders.
+* **Data visualization and analysis are still very important.** In Phase 1, your project stopped earlier in the CRISP-DM process. Now you are going a step further, to modeling. Data visualization and analysis will help you build better models and tell a better story to your stakeholders.
 
 ## Deliverables
 
@@ -54,7 +54,7 @@ There are three deliverables for this project:
 * A **Jupyter Notebook**
 * A **GitHub repository**
 
-The deliverables requirements are almost the same as in the Phase 1 Project, and you can review those extended descriptions [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-3#deliverables). In general, everything is the same except the "Data Visualization" and "Data Analysis" requirements have been replaced by "Modeling" and "Regression Results" requirements.
+The deliverables requirements are almost the same as in the Phase 1 Project, and you can review those extended descriptions [here](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-5#deliverables).
 
 ### Non-Technical Presentation
 
@@ -75,7 +75,7 @@ We recommend that you follow this structure, although the slide titles should be
 
 Make sure that your discussion of modeling and regression results is geared towards a non-technical audience! Assume that their prior knowledge of regression modeling is minimal. You don't need to explain how linear regression works, but you should explain why linear regression is useful for the problem context. Make sure you translate any metrics or coefficients into their plain language implications.
 
-The graded elements for the non-technical presentation are the same as in [Phase 1](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-3#deliverables).
+The graded elements for the non-technical presentation are the same as in [Phase 1](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-5#deliverables).
 
 ### Jupyter Notebook
 
@@ -94,7 +94,7 @@ The graded elements for the Jupyter Notebook are:
 
 Recall that the GitHub repository is the cloud-hosted directory containing all of your project files as well as their version history.
 
-The requirements are the same as in [Phase 1](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-3#github-repository), except for the required sections in the `README.md`.
+The requirements are the same as in [Phase 1](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-5#github-repository), except for the required sections in the `README.md`.
 
 For this project, the `README.md` file should contain:
 
