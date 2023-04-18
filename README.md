@@ -19,8 +19,25 @@ This dataset contains information about a variety of home/property features of a
 In creating this report the following two files were used:
 * [kc house data.csv](https://github.com/terminalcoder/dsc-phase-2-project-v2-5/blob/main/data/kc_house_data.csv) contains the dataset 
 * [column names.md](https://github.com/terminalcoder/dsc-phase-2-project-v2-5/blob/main/data/column_names.md) contains descriptive information about each column in the dataset
-***
 
+## Modeling
+The `'price'` column of the dataset is set as the target variable & all other home features are the predictor variables.  
+This model originally included about 30 predictor features (including some non-numerical ones that were converted via one-hot encoding), but was eventually reduced to less than half that amount because the coefficients for many of the features were found to be non-statistically significant & unreliable.  
+In an effort to reduce some of the issues of this model failing to meet some of the assumptions of linear regression modeling, the target variable of the final model was log transformed.
+
+## Regression Results
+Several insights emerge from this model:
+* Home price increases by .4% for every square-foot of living space
+* Price of a home with a gas/solar heating source is typically 15% greater than a home with an electric heating source (reference category)
+* A home with an Excellent grade construction & design is typically worth 30% more than a home with Substandard grade
+
+## Conclusion
+Based on the above insights, investors looking to turn a profit from flipping homes, are advised the following:
+* Maximize the area dedicated as living space
+* Install a gas/solar powered heating system
+* Invest in Excellent grade construction & design in all home remodeling & renovation
+
+## 
 
 
 
