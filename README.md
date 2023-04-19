@@ -51,9 +51,9 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 ```
 ├── README.md                                 <- The top-level README for reviewers of this project
 ├── Home Features Analysis.ipynb              <- Narrative documentation of analysis in Jupyter notebook
-├── Home Features Analysis.pdf  <- PDF version of project presentation
-├── zippedData                                <- Both sourced externally and generated from code
-└── images      
+├── Home Features Analysis.pdf                <- PDF version of project presentation
+├── data                                      <- Sourced externally
+└── images                                    <- Sourced from code
 ```
 
 
