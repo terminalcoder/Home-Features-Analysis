@@ -53,6 +53,7 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 ├── Home Features Analysis.ipynb              <- Narrative documentation of analysis in Jupyter notebook
 ├── Home Features Analysis.pdf                <- PDF version of project presentation
 ├── data                                      <- Sourced externally
+├── .gitignore                                <- files to ignore
 └── images                                    <- Sourced from code
 ```
 
