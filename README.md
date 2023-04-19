@@ -37,12 +37,11 @@ Based on the above insights, investors looking to turn a profit from flipping ho
 * Install a gas/solar powered heating system
 * Invest in Excellent grade construction & design in all home remodeling & renovation
 
-## 
-
-
-
-
-
+## Limitations
+The following points should be taken into consideration before applying any of the recomendations given in this report:
+* The data used has been shown to fail to meet some of the assumptions for linear regression modeling; a different model may better explain the data.
+* Regarding the grade of construction & design, a somewhat surprising pattern was revealed: homes with an excellent grade were shown to sell for more money than those with higher grades (luxury, mansion). Although not impossible, it should be the subject of further investigation to understand if there are other factors, unaccounted for in this report, that justify this fact.
+* Although certain modifications/features have been shown to have a stronger affect on home price than others, this report doesn't consider the costs involved in making those changes. Any proposed changes must be subject to a cost-benefit analysis to determine what type of modifications are truly most lucrative.
 
 ## For More Information
 Please review the full analysis in the Jupyter Notebook or the presentation.  
@@ -50,7 +49,11 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 
 ## Repository Structure
 ```
-
+├── README.md                                 <- The top-level README for reviewers of this project
+├── Home Features Analysis.ipynb              <- Narrative documentation of analysis in Jupyter notebook
+├── Home Features Analysis.pdf  <- PDF version of project presentation
+├── zippedData                                <- Both sourced externally and generated from code
+└── images      
 ```
 
 
