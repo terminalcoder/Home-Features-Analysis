@@ -44,7 +44,7 @@ The following points should be taken into consideration before applying any of t
 * Although certain modifications/features have been shown to have a stronger affect on home price than others, this report doesn't consider the costs involved in making those changes. Any proposed changes must be subject to a cost-benefit analysis to determine what type of modifications are truly most lucrative.
 
 ## For More Information
-Please review the full analysis in the Jupyter Notebook or the presentation.  
+Please review the full analysis in the [Jupyter Notebook](https://github.com/terminalcoder/Home-Features-Analysis/blob/master/Home%20Features%20Analysis.ipynb) or the [presentation](https://github.com/terminalcoder/Home-Features-Analysis/blob/master/Home%20Features%20Analysis%20Presentation.pdf).  
 For any additional questions, please contact Elimelech Berlin, melech.berlin@gmail.com
 
 ## Repository Structure
