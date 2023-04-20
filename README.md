@@ -45,7 +45,7 @@ The following points should be taken into consideration before applying any of t
 
 ## For More Information
 Please review the full analysis in the [Jupyter Notebook](https://github.com/terminalcoder/Home-Features-Analysis/blob/master/Home%20Features%20Analysis.ipynb) or the [presentation](https://github.com/terminalcoder/Home-Features-Analysis/blob/master/Home%20Features%20Analysis%20Presentation.pdf).  
-For any additional questions, please contact Elimelech Berlin, melech.berlin@gmail.com
+For any additional questions, please contact Elimelech Berlin, melech.berlin@gmail.com .
 
 ## Repository Structure
 ```
@@ -56,13 +56,3 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 ├── .gitignore                                <- files to ignore
 └── images                                    <- Sourced from code
 ```
-
-
-
-
-Overview
-Business and Data Understanding
-Explain your stakeholder audience here
-Modeling
-Regression Results
-Conclusion
