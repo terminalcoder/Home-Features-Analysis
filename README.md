@@ -56,13 +56,3 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 ├── .gitignore                                <- files to ignore
 └── images                                    <- Sourced from code
 ```
-
-
-
-
-Overview
-Business and Data Understanding
-Explain your stakeholder audience here
-Modeling
-Regression Results
-Conclusion
