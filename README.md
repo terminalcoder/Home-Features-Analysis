@@ -1,4 +1,4 @@
-![imge](https://github.com/terminalcoder/Home-Features-Analysis/blob/master/images/pexels-anete-lusina-4792483%20(1).jpg)
+![imge](https://github.com/terminalcoder/Home-Features-Analysis/blob/master/images/blue_print.jpg)
 # Home Features Analysis
 **Author:** Elimelech Berlin  
 **Date:** March 2023
