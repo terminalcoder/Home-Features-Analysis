@@ -4,7 +4,7 @@
 **Date:** March 2023
 
 ## Overview
-This report analyzes available data to identify home features that have a correlation with home sale prices. Included in this data is both information about fixed aspects of houses such as location, year built etc., & features that can be modified e.g. living space, utilities. As this report aims to provide insight to professionals looking to modify properties to maximize home resale value, it focuses on features included in the latter category.  
+This report analyzes available data to identify home features that have a correlation with home resale prices. Included in this data is both information about fixed aspects of houses such as location, year built etc., & features that can be modified e.g. living space, utilities. As this report aims to provide insight to professionals looking to modify properties to maximize home resale value, it focuses on features included in the latter category.  
 From this report, several takeaways emerge regarding the following home features:
 * Heating System
 * Square-footage of space available for renovation
